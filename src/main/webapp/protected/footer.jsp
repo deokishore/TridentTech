@@ -10,11 +10,11 @@
                             <div class="feature-wrap colA">
                               	<h3>Company </h3>
                                <ul>
-                                  <li><a href="why-trident.html">Why Trident</a></li>
-                                  <li><a href="career.html">Careers</a></li>
-                                  <li><a href="about-us.html">About Us</a></li>
-                                  <li><a href="enquiry.html">Enquiry</a></li>
-                                  <li><a href="contact-us.html">Contact us</a></li>
+                                  <li><a href="/aboutUs">Why Trident</a></li>
+                                  <li><a href="/career">Careers</a></li>
+                                  <li><a href="/aboutUs">About Us</a></li>
+                                  <li><a href="/enquiry">Enquiry</a></li>
+                                  <li><a href="/contactUs">Contact us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -48,12 +48,12 @@
                             <div class="feature-wrap colB">
                                 <h3>Services</h3>
                                 <ul>
-                                	<li><a href="mobile-application-development.html">Mobile Application Development</a></li>
-                                    <li><a href="web-development-design.html">Web Development &amp; Designing</a></li>
-                                	<li><a href="digital-marketing-services.html">Digital Marketing</a></li>
-                                    <li><a href="web-hosting.html">Hosting and Enterprise Services</a></li>
-                                    <li><a href="application-software-testing.html">Application and Software Testing</a></li>
-                                    <li><a href="e-commerce-website-development.html">E-Commerce Web Development</a></li>
+                                	<li><a href="/mobileApplicationDevelopment">Mobile Application Development</a></li>
+                                    <li><a href="/webDevelopmentDesign">Web Development &amp; Designing</a></li>
+                                	<li><a href="/digitalMarketingServices">Digital Marketing</a></li>
+                                    <li><a href="/webHosting">Hosting and Enterprise Services</a></li>
+                                    <li><a href="/applicationSoftwareTesting">Application and Software Testing</a></li>
+                                    <li><a href="/eCommerceWebsiteDevelopment">E-Commerce Web Development</a></li>
                            		</ul>
                             </div>
                         </div>
