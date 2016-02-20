@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title th:remove="all">Template for HTML email with inline image</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<script>
+	function submitForm() {
+	  alert("The address you entered could not be found: ");
+	}
+</script>
+
+
+<style>
+ div.btnwrapper button {
+    background-color: #6496c8;
+    border: medium none;
+    border-radius: 15px;
+    box-shadow: 0 10px #27496d;
+    color: #fff;
+}
+button {
+    -moz-appearance: none;
+    border-radius: 0;
+    box-shadow: none;
+    display: inline-block;
+    font-family: "Bitter",serif;
+    font-size: 36px;
+    line-height: 1.8;
+    margin: 0 10px 0 0;
+    padding: 6px 36px;
+    vertical-align: bottom;
+    cursor:pointer; 
+}
+div.btnwrapper button:hover {background-color:#417cb8;}
+</style>
+
+</head>
+<body>
+
+	<div>
+		<table style="border: 1px solid #dbe383" align="center" border="0"
+			cellpadding="0" cellspacing="0" width="805">
+			<tbody>
+				<tr>
+					<td><a href="http://www.bestnest.in/contactUs.htm?source=bestnest"
+						target="_blank"> <img src="sample.png"
+							th:src="'cid:' + ${imageResourceName}" />
+					</a></td>
+				</tr>
+
+				<tr>
+					<td>
+						<div style="background-color: #d1f3f4; padding: 10px; margin: 0 3px; text-align:center; border: 1px solid #6c6c6c;">
+								<a href="http://www.bestnest.in/contactUs.htm?source=bestnest" ><button type="button">Contact Us</button></a>
+						</div>
+					</td>
+				</tr>
+
+				<tr>
+					<td>
+						<div style="background-color: #d1f3f4; padding: 10px; margin: 0 3px; border: 1px solid #6c6c6c;">
+							<table >
+								<tbody>
+									<tr>
+										<td>
+											<a href="http://www.bestnest.in/contactUs.htm?">
+												<img src="http://images.bestnest.in/best-nest.png" border="0"></img>
+											</a>
+										<br/>
+										<font style="font-weight: bolder; color: #333333; font-size: 11pt;">BESTNEST REAL ESTATE SERVICES PVT. LTD.</font><br/>
+										<font style="color: #1F497D; font-size: 10pt; font-weight: bold;">D-77, Ground floor, Noida Sector 63, Noida - 201307, Near Fortis Hospital</font> <br/>
+										<font style="color: #336699; font-weight: bold; font-style: italic; font-size: 12px;">Website:</font> 
+										<font style="color: #333333; font-size: 10pt; font-weight: bold; font-style: italic;"><a href="http://www.bestnest.in" style="color: #FF6600; text-decoration: none;">www.bestnest.in</a></font><br/>
+										<font style="color: #336699; font-weight: bold; font-style: italic; font-size: 12px;">Email:</font>
+											<font style="color: #333333; font-size: 10pt; font-weight: bold; font-style: italic;">
+												<a href="mailto:query@bestnest.in" style="color: #FF6600; text-decoration: none;">query@bestnest.in</a>:
+											</font>		
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<font style="color: #336699; font-weight: bold; font-style: italic; font-size: 12px;">P:</font>
+											<font style="color: #333333; font-size: 10pt; font-weight: bold; font-style: italic;">+(91)-9278399399</font>
+										</td>	
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		
+		<div style="background-color: #d1f3f4; padding: 10px; margin: 0 3px; text-align:center; border: 1px solid #6c6c6c;">
+			Unsubscribe Policy:
+			If you do not wish to benefit from our email services, please email us at support@bestnest.in with unsubscribe in the subject header
+		</div>
+		
+	</div>
+
+</body>
+</html>

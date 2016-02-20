@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+						   http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.2.xsd
+						   http://www.springframework.org/schema/context http://www.springframework.org/schema/task/spring-context-4.2.xsd">
+
+    <!-- Basic Configurations -->
+    <context:annotation-config/>
+
+
+    <context:component-scan base-package="com.tridenttech.controller" />
+    <context:component-scan base-package="com.tridenttech.service" />
+    <context:component-scan base-package="com.tridenttech.form" />
+    <context:component-scan base-package="com.tridenttech.dao" />
+    <context:component-scan base-package="com.tridenttech.domain" />
+
+    <!-- SpringMVC -->
+    <import resource="spring-mvc.xml"/>
+
+    <!-- SpringData -->
+    <import resource="spring-jpa.xml"/>
+
+    <!-- SpringSecurity -->
+    <import resource="spring-security.xml"/>
+
+    <!-- SpringSecurity -->
+    <import resource="spring-mail.xml" />
+
+
+</beans>

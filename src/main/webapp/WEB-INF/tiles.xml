@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC "-//Apache Software Foundation//DTD Tiles Configuration 2.1//EN"
+        "http://tiles.apache.org/dtds/tiles-config_2_1.dtd">
+<tiles-definitions>
+
+    <!--  Master Start -->
+    <definition name="master.page" template="/protected/master.jsp">
+        <put-attribute name="header" value="/protected/header.jsp"/>
+        <put-attribute name="footer" value="/protected/footer.jsp"/>
+    </definition>
+    <!--  Master End -->
+
+    <!--  Home Page -->
+    <definition name="homePage" extends="master.page">
+        <put-attribute name="body" value="/protected/home-page.jsp"/>
+    </definition>
+
+    <!--  About Trident -->
+    <definition name="aboutUs" extends="master.page">
+        <put-attribute name="body" value="/protected/about-us.jsp"/>
+    </definition>
+
+    <!--  Why Trident -->
+    <definition name="whyTrident" extends="master.page">
+        <put-attribute name="body" value="/protected/why-trident.jsp"/>
+    </definition>
+
+    <!--  Vision -->
+    <definition name="vision" extends="master.page">
+        <put-attribute name="body" value="/protected/vision.jsp"/>
+    </definition>
+
+    <!--  Mission -->
+    <definition name="mission" extends="master.page">
+        <put-attribute name="body" value="/protected/mission.jsp"/>
+    </definition>
+
+    <!--  mobileApplicationDevelopment -->
+    <definition name="mobileApplicationDevelopment" extends="master.page">
+        <put-attribute name="body" value="/protected/mobile-application-development.jsp"/>
+    </definition>
+
+    <!--  softwareDevelopmentAndProgramming -->
+    <definition name="softwareDevelopmentAndProgramming" extends="master.page">
+        <put-attribute name="body" value="/protected/software-development-and-programming.jsp"/>
+    </definition>
+
+
+    <definition name="webDevelopmentDesign" extends="master.page">
+        <put-attribute name="body" value="/protected/web-development-design.jsp"/>
+    </definition>
+
+
+    <definition name="digitalMarketingServices" extends="master.page">
+        <put-attribute name="body" value="/protected/digital-marketing-services.jsp"/>
+    </definition>
+
+
+    <definition name="webHosting" extends="master.page">
+        <put-attribute name="body" value="/protected/web-hosting.jsp"/>
+    </definition>
+
+    <definition name="itSupportAndSolutions" extends="master.page">
+        <put-attribute name="body" value="/protected/it-support-and-solutions.jsp"/>
+    </definition>
+
+    <definition name="applicationSoftwareTesting" extends="master.page">
+        <put-attribute name="body" value="/protected/application-software-testing.jsp"/>
+    </definition>
+
+    <definition name="eCommerceWebsiteDevelopment" extends="master.page">
+        <put-attribute name="body" value="/protected/e-commerce-website-development.jsp"/>
+    </definition>
+
+    <definition name="html5WebDevelopment" extends="master.page">
+        <put-attribute name="body" value="/protected/html5-web-development.jsp"/>
+    </definition>
+
+    <definition name="phpDevelopment" extends="master.page">
+        <put-attribute name="body" value="/protected/php-development.jsp"/>
+    </definition>
+
+    <definition name="aspDotnetDevelopment" extends="master.page">
+        <put-attribute name="body" value="/protected/asp-dotnet-development.jsp"/>
+    </definition>
+
+    <definition name="wordPress" extends="master.page">
+        <put-attribute name="body" value="/protected/word-press.jsp"/>
+    </definition>
+
+    <definition name="drupal" extends="master.page">
+        <put-attribute name="body" value="/protected/drupal.jsp"/>
+    </definition>
+
+    <definition name="magento" extends="master.page">
+        <put-attribute name="body" value="/protected/magento.jsp"/>
+    </definition>
+
+    <definition name="joomla" extends="master.page">
+        <put-attribute name="body" value="/protected/joomla.jsp"/>
+    </definition>
+
+    <definition name="javaDevelopmentProgramming" extends="master.page">
+        <put-attribute name="body" value="/protected/java-development-programming.jsp"/>
+    </definition>
+
+    <definition name="contactUs" extends="master.page">
+        <put-attribute name="body" value="/protected/contact-us.jsp"/>
+    </definition>
+
+    <definition name="enquiry" extends="master.page">
+        <put-attribute name="body" value="/protected/enquiry.jsp"/>
+    </definition>
+
+    <definition name="career" extends="master.page">
+        <put-attribute name="body" value="/protected/career.jsp"/>
+    </definition>
+
+    <definition name="thankYou" extends="master.page">
+        <put-attribute name="body" value="/protected/thank-you.jsp"/>
+    </definition>
+
+</tiles-definitions>

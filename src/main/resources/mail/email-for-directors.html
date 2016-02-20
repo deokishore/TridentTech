@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title th:remove="all">Template for HTML email (simple)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+
+<body>
+
+	<div>
+		<table style="border: 1px solid #dbe383" align="center" border="0" cellpadding="0" cellspacing="0" width="805">
+			<tbody>
+				<tr>
+					<td>
+						<div style="background-color: #d1f3f4; padding: 10px; margin: 0 3px; border: 0px;">
+							<p><b>BestNest has been accessed by someone just now, find below the IP address :</b></p>
+							<p th:text="${clientIp}"></p>
+							<p><a target="_blank" href="https://www.iplocation.net">Click To Find Ip Location (City,Address), please copy the ip and paste it</a></p>
+						</div>
+					</td>	
+				</tr>
+				
+				
+				<tr>
+					<td>
+						<div style="background-color: #d1f3f4; padding: 10px; margin: 0 3px; border: 1px solid #6c6c6c;">
+							<p><b>Unsubscribe Policy:</b></p>
+							<p>	If you do not wish to benefit from our services, please email us at support@bestnest.in with unsubscribe in the subject header </p>
+						</div>
+					</td>	
+				</tr>
+			</tbody>
+		</table>
+	
+		
+	</div>
+	
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<title th:remove="all">Template for HTML email (simple)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<style>
+		table, td, th {
+		border: 1px solid #ddd;
+		text-align: left;
+		}
+
+		table {
+		border-collapse: collapse;
+		}
+
+		th, td {
+		padding: 15px;
+		background-color: #9E9E9E;
+		}
+	</style>
+
+</head>
+
+<body>
+
+	<div>
+		<table style="border: 1px solid #dbe383 display: inline-block;
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;" align="center" border="0" cellpadding="0" cellspacing="0" width="805">
+			<tbody>
+				<tr>
+					<td>
+						<div style="background-color: #dbe383; padding: 10px; margin: 0 3px; border: 0px;">
+							<p><b> Dear Customer, <br/>
+								<br/> 
+								&nbsp; &nbsp; Thanks, we have received your request, we will contact you soon.</b></p>
+						</div>
+					</td>	
+				</tr>
+				<tr>
+					<td>
+						<div style="background-color: #dbe383; padding: 10px; margin: 0 3px; border: 0px;">
+							<p><b>Name :</b></p>
+							<p th:text="${name}"></p>		
+						</div>
+					</td>	
+				</tr>
+				<tr>
+					<td>
+						<div style="background-color: #dbe383; padding: 10px; margin: 0 3px; border: 0px;">
+							<p><b>Subject :</b></p>
+							<p th:text="${subject}"></p>		
+						</div>
+					</td>	
+				</tr>
+				<tr>
+					<td>
+						<div style="background-color: #dbe383; padding: 10px; margin: 0 3px; border: 0px;">
+							<p><b>Phone Number :</b></p>
+							<p th:text="${phoneNumber}"></p>		
+						</div>
+					</td>	
+				</tr>
+				<tr>
+					<td>
+						<div style="background-color: #dbe383; padding: 10px; margin: 0 3px; border: 0px;">
+							<p><b>Emai Id :</b></p>
+							<p th:text="${email}"></p>		
+						</div>
+					</td>	
+				</tr>
+				<tr>
+					<td>
+						<div style="background-color: #dbe383; padding: 10px; margin: 0 3px; border: 0px;">
+							<p><b>Message :</b></p>
+							<p th:text="${clientMessage}"></p>		
+						</div>
+					</td>	
+				</tr>
+
+				<tr>
+					<td>
+						<div style="background-color: #dbe383; padding: 10px; margin: 0 3px; border: 0px;">
+							<p><b>Services he is interested in :</b></p>
+							<p th:text="${services}"></p>
+						</div>
+					</td>
+				</tr>
+				
+				<tr>
+					<td>
+						<div style="background-color: #dbe383; padding: 10px; margin: 0 3px; border: 0px;">
+							<table >
+								<tbody>
+									<tr>
+										<td>
+											<p style="font-weight: bolder; color: #333333; font-size: 14pt;"><b>Best Regards</b></p>
+											<a href="http://tridenttechnologies.co.uk/contactUs">
+												<img src="http://tridenttechnologies.co.uk/resources/images/tt-logo.png" border="0"></img>
+											</a>
+										<br/>
+										<font style="font-weight: bolder; color: #333333; font-size: 11pt;">TRIDENT TECHNOLOGIES LIMITED</font><br/>
+										<font style="color: #1F497D; font-size: 10pt; font-weight: bold;">Flat 47,
+											Vermeer Court,
+											1 Rembrandt Close,
+											London,
+											E14 3XA</font> <br/>
+										<font style="color: #1A1A1F; font-weight: bold; font-style: italic; font-size: 12px;">Website:</font>
+										<font style="color: #1A1A1F; font-size: 10pt; font-weight: bold; font-style: italic;"><a href="http://www.tridenttechnologies.co.uk" style="color: #1F497D; text-decoration: none;">http://www.tridenttechnologies.co.uk</a></font><br/>
+										<font style="color: #1A1A1F; font-weight: bold; font-style: italic; font-size: 12px;">Email:</font>
+											<font style="color: #1A1A1F; font-size: 10pt; font-weight: bold; font-style: italic;">
+												<a href="mailto:info@tridenttechnologies.co.uk" style="color: #1F497D; text-decoration: none;">info@tridenttechnologies.co.uk</a>:
+											</font>		
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<font style="color: #333333; font-weight: bold; font-style: italic; font-size: 12px;">P:</font>
+											<font style="color: #1F497D; font-size: 10pt; font-weight: bold; font-style: italic;">+(44)-7561420709</font>
+										</td>	
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div style="background-color: #dbe383; padding: 10px; margin: 0 3px; border: 1px solid #6c6c6c;">
+							<p><b>Unsubscribe Policy:</b></p>
+							<p>	If you do not wish to benefit from our recruitment services, please email us at info@tridenttechnologies.co.uk with unsubscribe in the subject header </p>
+						</div>
+					</td>	
+				</tr>
+			</tbody>
+		</table>
+	
+		
+	</div>
+	
+</body>
+</html>
