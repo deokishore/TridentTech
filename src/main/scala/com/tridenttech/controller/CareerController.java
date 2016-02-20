@@ -10,7 +10,7 @@ import org.springframework.web.servlet.ModelAndView;
 public class CareerController {
 		
 	@RequestMapping(value = "/career", method = RequestMethod.GET)
-	public ModelAndView contactUs(@RequestParam(value="source", required=false) String source) {
+	public ModelAndView career(@RequestParam(value="source", required=false) String source) {
 		ModelAndView mv = new ModelAndView("career");
 		return mv;
 	}
