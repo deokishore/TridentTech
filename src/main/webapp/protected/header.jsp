@@ -43,7 +43,7 @@
                         <li class="dropdown"><a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown">Company</a>
                         <ul class="dropdown-menu">
                             	<li><a href="/aboutUs">About Trident</a></li>
-                                <li><a href="/aboutUs">Why Trident?</a></li>
+                                <li><a href="/whyTrident">Why Trident?</a></li>
                                 <li><a href="/vision">Vision</a></li>
                                 <li><a href="/mission">Mission</a></li>
                             </ul>

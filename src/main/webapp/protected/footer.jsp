@@ -10,7 +10,7 @@
                             <div class="feature-wrap colA">
                               	<h3>Company </h3>
                                <ul>
-                                  <li><a href="/aboutUs">Why Trident</a></li>
+                                  <li><a href="/whyTrident">Why Trident</a></li>
                                   <li><a href="/career">Careers</a></li>
                                   <li><a href="/aboutUs">About Us</a></li>
                                   <li><a href="/enquiry">Enquiry</a></li>

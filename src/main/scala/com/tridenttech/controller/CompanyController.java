@@ -37,7 +37,7 @@ public class CompanyController {
 	
 	@RequestMapping(value = "/whyTrident", method = RequestMethod.GET)
     public ModelAndView whyTrident(HttpServletRequest request) throws MessagingException {
-		ModelAndView mv = new ModelAndView("why-trident");
+		ModelAndView mv = new ModelAndView("whyTrident");
 		return mv;
     }
 	
