@@ -1,3 +1,12 @@
+<title>Website Design & Web Development Company London UK | Trident Technologies</title>
+    <meta name="description" itemprop="description" content=" Trident Technologies is a UK based IT Company, mainly working on wesite development, website designing, digital marketing,IT Support and solutions, application and software testing, mobile application development, e-commerce web development etc. "/>
+    <meta name="keywords" content="Trident Technologies ,IT/Software service company London uk, Trident London uk, website designing & development company uk,digital marketing company uk, online marketing company London uk, IT Services Provider in London uk."/>
+	<meta name="msvalidate.01" content="5570804E04B45C5D156F30AC2F7FDDE4" />
+    <meta name="google-site-verification" content="EiOYllOcFdufY-zLN2QsJ1QM4Kblj2Rnjbh1p0JTKzs" />
+    <meta name="alexaVerifyID" content="1Zyy2hiL_8o1mxoXsWAEMYReP9g"/>
+
+
+
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <ol class="carousel-indicators">
@@ -24,7 +33,7 @@
     <section id="feature">
         <div class="container">
            <div class="center wow fadeInDown">
-                <h2>Services for Digital Makeover</h2>
+                <h1>Trident Technologies IT Software Services</h1>
                 <p class="lead">Our digitally focused services are designed to help businesses make most out of the web & reach more customers harnessing the power of digital media. </p>
             </div>
            <div class="row">
@@ -84,7 +93,7 @@
     <section id="recent-works">
         <div class="container">
             <div class="center wow fadeInDown">
-                <h2>Special Services to Transform Your Business</h2>
+                <h2>Online Services to Transform Your Business Global </h2>
                 <p class="lead">We drive expertise in helping businesses with major technology transformations solving complex IT challenges
 & leveraging emerging technologies.</p>
             </div>
@@ -290,7 +299,7 @@
                                     <div class="tab-pane fade active in" id="tab1">
                                         <div class="media">
                                            <div class="pull-left">
-                                                <img class="img-responsive" src="/resources/images/tab2.png">
+                                                <img class="img-responsive" src="/resources/images/tab2.png" alt="Trident Technologies team MembersImage">
                                             </div>
                                             <div class="media-body">
                                                  <h2>About Us</h2>
@@ -302,7 +311,7 @@
                                      <div class="tab-pane fade" id="tab2">
                                         <div class="media">
                                            <div class="pull-left">
-                                                <img class="img-responsive" src="/resources/images/tab1.png">
+                                                <img class="img-responsive" src="/resources/images/tab1.png" alt=" Trident Team Member Image 2">
                                             </div>
                                             <div class="media-body">
                                                  <h2>Our Vision</h2>
@@ -314,7 +323,7 @@
                                      <div class="tab-pane fade" id="tab3">
                                         <div class="media">
                                         	<div class="pull-left">
-                                                <img class="img-responsive" src="/resources/images/tab1.png">
+                                                <img class="img-responsive" src="/resources/images/tab1.png" alt=" Trident Technologies Image 3">
                                             </div>
                                             <div class="media-body">
                                                  <h2>Our Mission</h2>
@@ -326,7 +335,7 @@
                                      <div class="tab-pane fade" id="tab4">
                                      	<div class="media">
                                         	<div class="pull-left">
-                                                <img class="img-responsive" src="/resources/images/tab1.png">
+                                                <img class="img-responsive" src="/resources/images/tab1.png" alt="Trident Team member Image 4">
                                             </div>
                                             <div class="media-body">
                                         <h2>Our Quality Policy</h2>

@@ -63,7 +63,7 @@
                                 <li><b style="color:#c52d2f">Corporate Office (INDIA):</b></li>
                                 <li class="location">D-77, Sector-63, Noida-201301 (U.P.) India</li>
                                 <li class="mail">
-                                	<a href="mailto:info@tridenttechnologies.co.uk">info@tridenttechnologies.co.uk</a></li>
+                                	<a href="mailto:&#105;&#110;&#102;&#111;&#064;&#116;&#114;&#105;&#100;&#101;&#110;&#116;&#116;&#101;&#099;&#104;&#110;&#111;&#108;&#111;&#103;&#105;&#101;&#115;&#046;&#099;&#111;&#046;&#117;&#107;">info@tridenttechnologies.co.uk</a></li>
                                 <li class="phone">+91-8800491841 (INDIA)</li>
                                 <li class="phone1">0120-4355563 (INDIA)</li>
                                 <li><b style="color:#c52d2f">Branch Office (UK):</b></li>
