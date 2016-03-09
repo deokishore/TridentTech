@@ -7,12 +7,7 @@
 	<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website Design & Web Development Company London UK | Trident Technologies</title>
-    <meta name="description" itemprop="description" content=" Trident Technologies is a UK based IT Company, mainly working on wesite development, website designing, digital marketing,IT Support and solutions, application and software testing, mobile application development, e-commerce web development etc. "/>
-    <meta name="keywords" content="Trident Technologies ,IT/Software service company London uk, Trident London uk, website designing & development company uk,digital marketing company uk, online marketing company London uk, IT Services Provider in London uk."/>
-	<meta name="msvalidate.01" content="5570804E04B45C5D156F30AC2F7FDDE4" />
-    <meta name="google-site-verification" content="EiOYllOcFdufY-zLN2QsJ1QM4Kblj2Rnjbh1p0JTKzs" />
-    <meta name="alexaVerifyID" content="1Zyy2hiL_8o1mxoXsWAEMYReP9g"/>
+
 	<!-- core CSS -->
 	<link href="<c:url value="/resources/css/bootstrap.min.css" />" rel="stylesheet">
 	<link href="<c:url value="/resources/css/font-awesome.min.css" />" rel="stylesheet">
