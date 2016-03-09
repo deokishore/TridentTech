@@ -2,6 +2,12 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
+    <title>Trident Technologies | Web Development Company in UK, Website Designing Company UK</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Web design & development company allows you to create more dynamic and interactive web sites,Our creative team has a diverse background in graphic design, web development, interactive marketing, branding and advertising."/>
+    <meta name="keywords" content="flash design company in uk, web design & development company in london uk, web designing company in uk, flash web designing company London UK, website designing company in uk. "/>
+
+
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">

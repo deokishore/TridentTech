@@ -2,6 +2,12 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
+
+
+<title> Contact Trident Technologies| Leading IT Company in London UK </title>
+    <meta name="description" content="Contact Trident Technologies for social media marketing, website design & development, Mobile apps development, e-learning and e commerce software development, contact us for it software solution. "/>
+    <meta name="keyword" content="contact trident, trident technologies uk, trident technologies london, trident contact, contact Trident Head Office, Contact Trident Branch office. "/>
+
 	<section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">

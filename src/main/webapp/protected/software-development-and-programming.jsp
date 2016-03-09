@@ -2,6 +2,12 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
+
+    <title> Trident Technologies | Mobile App Development Company in UK, Mobile Application Development in London UK </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Trident Technologies is the leading company providing mobile application development services from decade. We offer custom mobile application development services for iOS, Android and Windows at cost-effective rates, we also provide Cross Platform Mobile Development Service pertains to developing software for running on more than one type of hardware platforms."/>
+    <meta name="keywords" content="mobile application development company in uk, mobile app development in london uk, mobile software development in uk,custom mobile app development company in uk, mobile app development services in uk, mobile app development in london uk. "/>
+
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">

@@ -1,6 +1,11 @@
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
+
+    <title> Trident Technologies | enquiry | Post an Inquiry for Your Requirement</title>
+    <meta name="description" content="Request a quote for websites and mobile application development requirements,We're here to understand what you want in iT."/>
+    <meta name="keywords" content="inquiry form, get a quote, Request A Quote,Discuss your business objectives. "/>
+
 	
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">

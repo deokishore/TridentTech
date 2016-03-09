@@ -1,4 +1,10 @@
 
+    <title>Trident Technologies Vision | Website Design & Web Development IT Company UK </title>
+    <meta name="description" content="Learn about the Trident Technologies Vision.Our vision is to develop yet better solutions to the various requirements of our clients. We visualize a growth that inculcates smart and logical thinking that can be well applied practically into solutions "/>
+    <meta name="keywords" content="Vision, trident technologies Vision, trident vision, Trident wishes "/>
+
+
+
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">

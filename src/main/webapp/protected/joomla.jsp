@@ -2,6 +2,12 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
+    <title>Trident Technology | Custom Joomla Website Development Company in London UK</title>
+    <meta name="description" content="Trident Technologies are providing Joomla development services from our team of experts with high-quality development solutions as per your requirement. We build interactive Joomla websites, which are easy to manage for various industries. "/>
+    <meta name="keywords" content="joomla development service in uk, joomla website development company in london uk, custom joomla development in uk, offshore joomla web development in uk, custom joomla development in london uk. "/>
+
+
+
 	<section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">

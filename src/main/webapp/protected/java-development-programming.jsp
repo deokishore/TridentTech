@@ -2,6 +2,12 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
+
+    <title>Ttident Technologies | Java,J2EE Development Company in UK London.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Trident are providing Java development services from our team of experts with high-quality development solutions as per your requirement. We build interactive Java-J2EE, which are easy to manage for various industries. "/>
+    <meta name="keywords" content="JAVA Development Service in UK, JAVA Apps Development Company in london uk, Custom J2EE Development in uk, Offshore JAVA Development in london uk. "/>
+
 	<section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">

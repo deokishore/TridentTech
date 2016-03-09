@@ -1,4 +1,8 @@
 
+    <title>Trident Technologies Mission | Website Design & Web Development IT Company UK</title>
+    <meta name="description" content="The mission of Trident is simply to sense and coordinate with the clients employing all the needful resources and their smart exhaustion with the support of our very dedicated team and provide them with a world class service.">
+    <meta name="keywords" content="mission, trident technologies mission, trident mission, The mission of Trident,Trident identify, ">
+
 	
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">

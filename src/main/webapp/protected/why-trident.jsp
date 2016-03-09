@@ -1,3 +1,7 @@
+    <title>Trident Technologies | Why to Choose or Trident Solutions? </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Trident can be a good choice as your software outsourcing partner as we help our clients to build a software product by focusing on their overall business requirements.We,at Trident, understand this very concept and therefore aim to provide services that are diligently enveloped as per the industry standards and the requirements of our clients. "/>
+    <meta name="keywords" content="why to choose Trident Technologies, why trident, why us, why trident technologies for outsourcing. "/>
 
     
   <section id="main-slider" class="no-margin">

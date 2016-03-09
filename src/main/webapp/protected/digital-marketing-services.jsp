@@ -2,6 +2,10 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
+<title>Trident Technologies,Digital Marketing/SEO Services Company in London UK</title>
+    <meta name="description" content="Trident Technologies SEO Services firm UK offering professional seo services, pay per click management, social media marketing, link building and seo copywriting to target higher traffic to your website."/>
+    <meta name="keywords" content="professional seo services London UK, seo marketing uk, seo services london uk, search engine marketing solutions in uk, search engine marketing specialists in london uk, digital marketing companies in uk, digital marketing companies in london uk."/>
+
 
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">

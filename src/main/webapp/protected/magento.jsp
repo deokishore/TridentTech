@@ -2,6 +2,12 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
+    <title>Trident Technologies | Magento CMS Development Company in London UK</title>
+    <meta name="description" content="Expand your online store business with Magento CMS development and integration.
+    Trident provides interactive Magento solution to enhance your sales. "/>
+    <meta name="keywords" content="magento development in uk, magento cms development in london uk, magento cms development services in uk, magento  websites design in london uk, magento theme design in london uk, magento customization company in uk, cms development services in london uk. "/>
+
+
 	<section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">

@@ -2,6 +2,14 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
+
+
+    <title>Business IT Support and Solutions | Specialists in UK | Trident Technologies uk</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="What is the cloud and why your should your business be looking into cloud services and solutions. "/>
+    <meta name="keywords" content="cloud hosting in london uk, cloud computing solutions in london uk, cloud computing infrastructure in london uk,structuring you IT system, IT support solutions. "/>
+
+
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">

@@ -2,6 +2,15 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
+
+ <title>Trident technologies | Software Testing Services London UK, Application & Software Testing UK
+     </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Trident Technologies offers software testing services and Application testing for SDLC products  in London UK . We help our clients plan their test investments and manage critical testing processes to reduce the total cost of producing quality software and better ROI,Our Approach to testing involves Analyse,Design,Validate,Normalize & Transition,Achieve Goals Established."/>
+    <meta name="keywords" content="software testing uk, quality checking london uk, offshore testing uk, Manual testing noida, Outsourced testing london uk, SDLC products testing uk, Software verification company uk. "/>
+
+
+
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">

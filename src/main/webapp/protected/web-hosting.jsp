@@ -2,6 +2,13 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
+    <title> Web Hosting in UK, Starter Website Hosting in UK | Trident technologies </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Trident Technologies, We’re focused on giving you more with less, by growing your business further, we provide client focused enterprise services, we save you time,Trident Technologies is also engage in providing the best web hosting services. "/>
+    <meta name="keywords" content="business web hosting in uk, wordPress hosting in london uk, webmaster reseller web hosting in uk, basic web hosting in uk, starter web hosting in london uk,Hosting and Enterprise Services. "/>
+
+
+
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">
