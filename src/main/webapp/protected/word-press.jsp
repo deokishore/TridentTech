@@ -21,7 +21,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>WordPress</h2>              
+				<h2>WordPress Website Development</h2>
                 <p class="lead textjustify"> Are you searching for Word Press Development Company? You have found the right Word Press development company!!!</p>
                 
                 <h3 style="color: #006bfc; font: 18px georgia; margin-bottom: 10px; text-align:left;">Why Word Press Website</h3>

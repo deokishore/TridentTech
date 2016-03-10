@@ -1,4 +1,4 @@
-<title>Trident Technologies Job Opening | PHP,Dot Net,Developer jobs Noida .Net/PHP Developer,Web Designer,Testing Engineer| </title>
+    <title>Trident Technologies Job Opening | PHP,Dot Net,Developer jobs Noida .Net/PHP Developer,Web Designer,Testing Engineer| </title>
     <meta name="description" content="Trident is offering good career opportunity for Web designing and development,Android Developer/Sr. Android Developer, IOS Developer, PHP Developer, .Net Developer,hr@tridenttechnologies.in."/>
     <meta name="keywords" content="PHP career Delhi and London uk, .Net jobs Noida/London uk, seo opening India & UK, web designer Noida & London, web developer noida and London, testing engineer noida & London" />
 
@@ -17,7 +17,7 @@
                 <div class="row contact-wrap">            
                	<div class="col-md-7 col-sm-6">
                     <h2 style="color: #006bfc; font: 20px georgia; margin-bottom: 20px; text-align:left;">
-                    	Current Openings
+                    	Trident Technologies Current Openings
                    	</h2>
                         <p><b> Opening 1 : Android Developer/Sr. Android Developer (Lead)</b> </p>
                         <p><b> Location : </b> Trident Technologies, Noida <br>

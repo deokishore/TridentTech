@@ -20,7 +20,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>Html 5</h2>              
+				<h1>Html5 - Mobile Development </h1>
                 <p class="lead textjustify">Hypertext Markup Language (HTML) is the primary building block of creating a website. HTML is a very basic markup language and requires memorization of a few dozen HTML commands that structure the look and layout of each of the web pages.</p>
                 
                 <p class="lead textjustify">Trident Technology has experience in latest technology like HTML4.0 and HTML5. HTML5 is the proposed next extensive major revision of HTML. It works on every platform, is compatible with older browsers, and handles errors gracefully. HTML5 adds many new syntactical features. These include the video, audio, and canvas elements. These features are designed to make it easy to include multimedia content on the web without having plug-in and APIs. Other new elements, such as section, article, header, and nav are designed to enrich the content. </p>

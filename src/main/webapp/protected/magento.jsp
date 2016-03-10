@@ -20,7 +20,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>Magento</h2>              
+				<h2>Magento Development</h2>
                 <p class="lead textjustify">Trident Technologies offers valuable and result oriented Magento Development services including customization, theme design, extension development, data transfer and Magento SEO services.</p>
                 
                 <ul class="mylist">

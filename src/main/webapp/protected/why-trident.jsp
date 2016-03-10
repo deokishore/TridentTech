@@ -16,7 +16,7 @@
         <div class="container">
         	<div class="col-md-8 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>Why Trident</h2>              
+				<h2>Why Trident Technologies</h2>
                 <p class="lead textjustify">With constantly changing marketing strategies and an upward shift in consumerism, the need of the hour is a 360 degrees business representation. This is essential in this era to be able to reap the maximum benefits out of the constantly growing market that endows you with heaps of opportunities. The trick here is to be smart enough to understand where and how to advertise, how to create and increase the channels of business inflow and concentrate on obtaining maximum advantage of each opportunity.</p>
                 
                 <p class="lead textjustify">Your digital presence is pivotal in generating such business opportunities effortlessly. These easy flowing opportunities pave way for you to zeroing in on what you essential do; that is complete focus on your work, with concerns of business generation.</p>

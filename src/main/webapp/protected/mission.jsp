@@ -16,7 +16,7 @@
         <div class="container">
         	<div class="col-md-8 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>Our Mission</h2>              
+				<h1>Trident Technologies Mission</h1>
                 <p class="lead textjustify">The psyche behind forming Trident was basically to identify the various technical and non-technical issues that any organization faces while establishing and promoting the business it undertakes in the growing and digitally smart global industry. We seek to accomplish our mission by putting in a deep analysis on creating a roadmap for fulfilling all the clients’ needs in a very robust environment that promises to sense the nerve of what is required out of various operations and delivering an outcome or say solution that emerges from the pavilions of thoughtful and viable understanding.</p>
                 
                 <p class="lead textjustify">The mission of Trident is simply to sense and coordinate with the clients employing all the needful resources and their smart exhaustion with the support of our very dedicated team and provide them with a world class service thereby carving a niche for ourselves in the industry.</p>

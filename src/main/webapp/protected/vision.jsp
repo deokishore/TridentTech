@@ -17,7 +17,7 @@
         <div class="container">
         	<div class="col-md-8 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>Our Vision</h2>              
+				<h1>Trident Technologies Vision</h1>
                 <p class="lead textjustify">Our vision is to develop yet better solutions to the various requirements of our clients. We visualize a growth that inculcates smart and logical thinking that can be well applied practically into solutions that help us reach such standardization in all our endeavours that provide us with an edge and take us well ahead of our contemporaries.</p>
                 
                 <p class="lead textjustify">Trident wishes to establish a fruitful environment of work that personifies our vision in a way that takes us to an unprecedented height wherein we take up a mutual road to growth and success along with our clients.</p>

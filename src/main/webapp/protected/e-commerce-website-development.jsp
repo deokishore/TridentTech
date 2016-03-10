@@ -18,7 +18,7 @@
     <section id="feature">
         <div class="container">
         	<div class="center wow fadeInDown">
-                <h2>6 Business Benefits of our Ecommerce Application Development Services</h2>
+                <h2>6 Business Benefits of our e commerce Application Development Services</h2>
             </div>
             <div class="row">
                 <div class="features">

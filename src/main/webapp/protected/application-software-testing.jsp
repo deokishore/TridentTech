@@ -23,7 +23,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
         		<div class="wow fadeInDown">
-                <h2 style="color: #006bfc; font: 18px georgia; margin-bottom: 10px; text-align:left;">Application and Software Testing</h2>
+                <h1 style="color: #006bfc; font: 18px georgia; margin-bottom: 10px; text-align:left;">Application and Software Testing at Trident</h1>
                 
                 <p class="lead textjustify">Software testing can be stated as the process of validating and verifying that a computer program/application/product:</p>
                 

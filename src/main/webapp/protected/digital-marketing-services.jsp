@@ -2,9 +2,9 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
-<title>Trident Technologies,Digital Marketing/SEO Services Company in London UK</title>
+    <title>Digital Marketing/SEO Services Company in London UK | Trident Technologies</title>
     <meta name="description" content="Trident Technologies SEO Services firm UK offering professional seo services, pay per click management, social media marketing, link building and seo copywriting to target higher traffic to your website."/>
-    <meta name="keywords" content="professional seo services London UK, seo marketing uk, seo services london uk, search engine marketing solutions in uk, search engine marketing specialists in london uk, digital marketing companies in uk, digital marketing companies in london uk."/>
+    <meta name="keywords" content="Digital Marketing Company london,SEO Services company in london uk,professional seo services London UK, seo marketing uk, seo services london uk, search engine marketing solutions in uk, search engine marketing specialists in london uk, digital marketing companies in uk, digital marketing companies in london uk."/>
 
 
     <section id="main-slider" class="no-margin">
@@ -18,7 +18,7 @@
     <!--/#content-->
 	<section id="blog" class="container">
     	<div class="center">
-            <h2>Digital Marketing</h2>
+            <h2>Digital/Online Marketing at Trident</h2>
             <p class="lead textjustify">We formulate creative digital strategies that help you reach out to the right people with the right message at right time through a right channel. Even if you have a modest budget for your online marketing campaign, we can suggest which service your brand needs most to keep it alive & kicking. Our experts can allocate your marketing budget intelligently across various digital services depending on your business size, it's revenue goals & target niche and measure ROI. </p>
         </div>
         <div class="blog">

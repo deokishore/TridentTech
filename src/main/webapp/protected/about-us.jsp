@@ -1,14 +1,14 @@
 
 
 
-<title> About Us | Trident Technologies | Website Design & Web Development IT Company UK </title>
+<title> About Trident Technologies | Website Design & Web Development IT Company UK </title>
     <meta name="description" itemprop="description" content="Trident Technologies is a UK Based Company delivering high quality, cost effective, reliable result-oriented web and e-commerce solutions on time for a global clientele. Professionalism, Skill and Expertise are the tools we use to make the web work for your business bringing in maximum return on your investment. "/>
-    <meta name="keywords" content=" About Trident Technologies ,IT/Software service company London uk, About Trident London uk,software development company uk, About digital marketing company uk, About online marketing company London uk, About IT Services Provider in London uk."/>
+    <meta name="keywords" content=" About Trident Technologies,IT/Software service company London uk, About Trident London uk,software development company uk, About digital marketing company uk, About online marketing company London uk, About IT Services Provider in London uk."/>
 
     <section id="about-us">
         <div class="container">
 			<div class="center wow fadeInDown">
-				<h2>About Trident</h2>
+				<h1>About Trident Technologies</h1>
                 
                 <p class="lead textjustify">Trident Technologies is a UK Based Company delivering high quality, cost effective, reliable result-oriented web and e-commerce solutions on time for a global clientele. Professionalism, Skill and Expertise are the tools we use to make the web work for your business bringing in maximum return on your investment in shortest possible time.</p>
                 

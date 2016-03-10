@@ -23,7 +23,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>Microsoft.Net</h2>              
+				<h1>Microsoft.Net Development</h1>
                 <p class="lead textjustify">Microsoft’s .NET Framework enables FAST Application Development and allows software professional to utilize most functional and scalable methods during application development process and deliver integrated solutions.</p>
                 
                 <p class="lead textjustify">At Trident Technologies our professional using Microsoft .NET Framework for a long time to deliver robust and scalable web, ERP and desktop applications.</p>

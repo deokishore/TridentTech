@@ -21,7 +21,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
         		<div class="center wow fadeInDown">
-                <h2>Hosting and Enterprise Services</h2>
+                <h1>Hosting and Enterprise Services</h1>
                 <p class="lead textjustify">Trident Technologies is also engage in providing the best web hosting services. Web hosting service offers you with web space to store all web documents such as content, images, banners, logos, videos and more at one place. Here at Trident Technologies we offer a vast range of web site hosting packages to the customers. Our hosting services are of best quality and you get it at most affordable prices. One you go through our hosting packages, and then you have to ask for the required package you are looking for. At our Company, we offer guaranteed 99.9% uptime and several value added services.</p>
                 <p class="lead textjustify">Our customers avail with free control panel, free e-mails set ups, free blogs set ups and more. Apart from these services, you can get best technical support for 24/7. Yes, it is true that you get our support whenever you require. At Trident Technologies we possess a team of customer service care executives who are there to receive your calls and assist you with perfect information. You can easily compare our hosting charges with others and we guarantee that you will never get such cheapest prices elsewhere.</p>
                 <p class="lead textjustify">Our customers avail with huge discounts on ordering web host. You can get a Free Domain with each hosting package and also there are no hidden charges or extra payments. We are transparent and do business with complete honesty.</p>

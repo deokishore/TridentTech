@@ -20,7 +20,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>Joomla</h2>              
+				<h2>Joomla Web Sites Development</h2>
                 <p class="lead textjustify">Joomla is an award-winning content management system (CMS), which enables you to build Web sites and powerful online applications. Many aspects, including its ease-of-use and extensibility, have made Joomla the most popular Web site software available. Best of all, Joomla is an open source solution that is freely available to everyone.</p>
  
                     <p class="lead textjustify">Joomla is considered as one of the best open source content management platforms. A Joomla developer can easily create complicated websites. You can hire our experienced Joomla Programmers to meet the web needs. Trident Technologies works with most trusted and experienced team.</p>

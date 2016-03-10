@@ -21,7 +21,7 @@
         <div class="container">
         		<div class="col-md-7 col-sm-6">
                 	<div class="wow fadeInDown">
-                    <h2 style="color: #006bfc; font: 18px georgia; margin-bottom: 10px; text-align:left;">Mobile Application Development</h2>
+                    <h1 style="color: #006bfc; font: 18px georgia; margin-bottom: 10px; text-align:left;">Mobile Application Development</h1>
                 <p class="lead textjustify">Trident Technologies provide Mobile development Services for Android and IOS phones. We have an outstanding team for mobile software applications developments. Mobile software applications are then arranged on devices such as mobile phones, tablets, PDAs etc. If you want to upgrade your Mobile phone, you can contact us. We offer you best custom-made Mobile Development Solutions.</p>
             </div>
             		<div class="wow fadeInDown">

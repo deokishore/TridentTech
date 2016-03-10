@@ -20,7 +20,7 @@
         <div class="gmap-area">
             <div class="container">
                 <div class="row contact-wrap">
-                	<h2 style="color: #006bfc; font: 20px georgia; margin-bottom: 10px;">Contact Us</h2>
+                	<h2 style="color: #006bfc; font: 20px georgia; margin-bottom: 10px;">Trident Technologies Contact details</h2>
                     <div class="col-sm-7 text-center">
                     	<div class="colD">
                     		<ul style="list-style: outside none none; text-align: left; margin: 0px; padding: 0px;">

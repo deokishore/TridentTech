@@ -20,7 +20,7 @@
         <div class="container">
         		<div class="col-md-7 col-sm-6">
                 	<div class="wow fadeInDown">
-                    <h2 style="color: #006bfc; font: 18px georgia; margin-bottom: 10px; text-align:left;">Web Development Design & Graphics</h2>
+                    <h1 style="color: #006bfc; font: 18px georgia; margin-bottom: 10px; text-align:left;">Web Development Design & Graphics </h1>
                 <p class="lead textjustify">Creating user centric design has become a pre-requisite for a successful website. User experience design focuses on a deep understanding of the specific needs of the end user and enhancing their interaction with your product or service.</p>
                 
                 <p class="lead textjustify">We at Trident Technologies understand that creating an exceptional user experience is about striking the right balance between end user satisfaction and also meeting your business goals. After all what‘s the point creating a product that the people love but it is futile in achieving your business goals. Our web design experts always aim at achieving that convergence point where user needs and your business needs are in symbiosis.</p>

@@ -21,7 +21,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>Drupal</h2>              
+				<h2>Drupal websites developement</h2>
                 <p class="lead textjustify">Trident Technologies specialise in developement of high end, user-oriented, robust and scalable Drupal enterprise websites.</p>
                 
                 <p class="lead textjustify">Drupal is an open source content management system with over 650,000 sites running on its software. Drupal helps you in developing a user friendly, multilingual, reliable, SEO friendly and fully dynamic website. It’s an outstanding platform to build websites and web applications.</p>

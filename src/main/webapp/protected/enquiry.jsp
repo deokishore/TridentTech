@@ -18,7 +18,7 @@
     <section class="pricing-page">
         <div class="container">
             <div class="center">  
-                <h2>Request A Quote</h2>
+                <h1>Request A Quote</h1>
                 <p class="lead">Discuss your business objectives. We're here to understand what you want.</p>
             </div>  
             <div class="pricing-area text-center">

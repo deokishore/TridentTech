@@ -11,7 +11,7 @@
 	<section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">
-				<img src="images/technology/java-development.jpg" alt="Java Application Development" width="100%" height="100%">
+				<img src="resources/images/technology/java-development.jpg" alt="Java Application Development" width="100%" height="100%">
 			 </div><!--/.carousel-inner-->
         </div><!--/.carousel-->
     </section><!--/#main-slider-->
@@ -20,7 +20,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>Java</h2>              
+				<h1>Java,J2EE Development</h1>
                 <p class="lead textjustify">Trident Technologies develops active web-applications using various application servers and web-containers.Trident Technologies java development team implement J2EE for our client’s custom application development needs and provide platform independence which helps in developing cross-platform portable solutions.</p>
  
                     <p class="lead textjustify">Our java programmers use up-to-date Java tools to develop multi-platform desktop applications and enrich client solutions. Trident develop user interfaces that have advanced graphics and maintain brand-identity of the software products. Our Java development team uses Web Services very successfully to provide sleek integration interfaces in many assignments for our clients. </p>

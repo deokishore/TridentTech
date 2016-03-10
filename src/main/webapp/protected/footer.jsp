@@ -23,7 +23,7 @@
                                 <h3>Connect</h3>
                                 <ul>
                                   <li class="twitter-icon">
-                                  	<a href="https://twitter.com/TridentTechnolo" title="Twitter" target="https://twitter.com/TridentTechnolo" rel="dofollow">Twitter
+                                  	<a href="https://twitter.com/TridentTechuk" title="Twitter" target="https://twitter.com/TridentTechnolo" rel="dofollow">Twitter
                                     </a>
                                   </li>
                                   <li class="facebook-icon">
@@ -32,12 +32,12 @@
                                    	</a>
                                   </li>
                                   <li class="linkedin-icon">
-                                  	<a href="javascript:void(0);" title="linkedin" target="_blank" rel="nofollow">
+                                  	<a href="#" title="linkedin" target="_blank" rel="nofollow">
                                     	Linkedin
                                     </a>
                                   </li>
                                   <li class="google-icon">
-                                  	<a href="javascript:void(0);" title="Google" target="_blank" rel="nofollow">
+                                  	<a href="https://plus.google.com/+TridenttechnologiesUk" title="Google" target="_blank" rel="dofollow">
                                     	Google
                                     </a>
                                   </li>

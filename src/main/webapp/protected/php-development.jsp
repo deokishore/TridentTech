@@ -3,7 +3,7 @@
 <%@ page isELIgnored="false"%>
 
 
-    <title> Trident Technologies | Mobile App Development Company in UK, Mobile Application Development in London UK </title>
+    <title> Trident Technologies | Application Development Company in UK, Mobile Application Development in London UK </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Trident Technologies is the leading company providing mobile application development services from decade. We offer custom mobile application development services for iOS, Android and Windows at cost-effective rates, we also provide Cross Platform Mobile Development Service pertains to developing software for running on more than one type of hardware platforms."/>
     <meta name="keywords" content="mobile application development company in uk, mobile app development in london uk, mobile software development in uk,custom mobile app development company in uk, mobile app development services in uk, mobile app development in london uk. "/>
@@ -21,7 +21,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
 				<div class="center wow fadeInDown">
-				<h2>PHP</h2>              
+				<h1>PHP/MySQL Development</h1>
                 <p class="lead textjustify">PHP/MySQL is the most famous scripting language on the planet; get it professionally developed by Trident Technologies.</p>
                 
                 <p class="lead textjustify">PHP is a standout amongst the most extensively utilized scripting language and has gotten one of the major players on Web Development for the sort of choices it gives.</p>

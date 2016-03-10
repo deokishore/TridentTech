@@ -22,7 +22,7 @@
         <div class="container">
         	<div class="col-md-7 col-sm-6">
         		<div class="wow fadeInDown">
-                <h2 style="color: #006bfc; font: 18px georgia; margin-bottom: 10px; text-align:left;">IT Support and Solutions</h2>
+                <h1 style="color: #006bfc; font: 18px georgia; margin-bottom: 10px; text-align:left;">IT Support and Solutions at Trident</h1>
                 <p class="lead textjustify">In today’s competitive business environment, a well equipped IT support solutions is essential, as structuring you IT system, will help you earn that winning edge in industry. Whether your enterprise is a startup, or a medium or large-scale corporation, you will need to define your IT strategies to optimize your business objectives sooner or later.</p>
                 
                 
