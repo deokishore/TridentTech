@@ -8,6 +8,10 @@
     <mvc:default-servlet-handler/>
     <mvc:resources mapping="/resources/**" location="/resources/" />
 
+
+    <mvc:resources mapping="/robots.txt" location="/static/robots.txt" order="0"/>
+    <mvc:resources mapping="/sitemap.xml" location="/static/sitemap.xml" order="0"/>
+
     <!-- the mvc resources tag does the magic
     <mvc:resources mapping="/resources/**" location="/resources/" />
     -->

@@ -1,0 +1,29 @@
+User-Agent: *
+Disallow: 
+
+
+Allow: /enquiry
+Allow: /career
+Allow: /aboutUs
+Allow: /whyTrident
+Allow: /vision
+Allow: /mission
+Allow: /html5WebDevelopment
+Allow: /phpDevelopment
+Allow: /aspDotnetDevelopment
+Allow: /wordPress
+Allow: /drupal
+Allow: /magento
+Allow: /joomla
+Allow: /javaDevelopmentProgramming
+Allow: /mobileApplicationDevelopment
+Allow: /softwareDevelopmentAndProgramming
+Allow: /webDevelopmentDesign
+Allow: /digitalMarketingServices
+Allow: /webHosting
+Allow: /itSupportAndSolutions
+Allow: /applicationSoftwareTesting
+Allow: /eCommerceWebsiteDevelopment
+Disallow: /contactUs
+
+Sitemap: http://www.tridenttechnologies.co.uk/sitemap.xml
