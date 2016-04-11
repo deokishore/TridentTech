@@ -1,16 +1,16 @@
 
 
 
-<title> About Trident Technologies | Website Design & Web Development IT Company UK </title>
-    <meta name="description" itemprop="description" content="Trident Technologies is a UK Based Company delivering high quality, cost effective, reliable result-oriented web and e-commerce solutions on time for a global clientele. Professionalism, Skill and Expertise are the tools we use to make the web work for your business bringing in maximum return on your investment. "/>
-    <meta name="keywords" content=" About Trident Technologies,IT/Software service company London uk, About Trident London uk,software development company uk, About digital marketing company uk, About online marketing company London uk, About IT Services Provider in London uk."/>
+<title> About Trident Technologies Website Design & Development IT Company UK</title>
+    <meta name="description" itemprop="description" content="Trident Technologies is a UK Based Company delivering high quality, cost effective, reliable result-oriented web and e-commerce solutions on time for a global clientele."/>
+    <meta name="keywords" content="About Trident Technologies,IT/Software service company London uk, About Trident London uk,software development company uk, About digital marketing company uk, About online marketing company London uk, About IT Services Provider in London uk."/>
 
     <section id="about-us">
         <div class="container">
 			<div class="center wow fadeInDown">
 				<h1>About Trident Technologies</h1>
                 
-                <p class="lead textjustify">Trident Technologies is a UK Based Company delivering high quality, cost effective, reliable result-oriented web and e-commerce solutions on time for a global clientele. Professionalism, Skill and Expertise are the tools we use to make the web work for your business bringing in maximum return on your investment in shortest possible time.</p>
+                <p class="lead textjustify">Trident Technologies is a UK Based Company delivering high quality, cost effective, result-oriented web and e-commerce solutions on time for a global clientele. Professionalism, Skill and Expertise are the tools we use to make the web work for your business bringing in maximum return on your investment in shortest possible time.</p>
                 
                 <p class="lead textjustify">We have delivered on IT projects of varying complexities for our very demanding and Internet savvy clients                 spread across the globe. We develop unique web solutions which ensure increased efficiency and competitive advantage for your business                 and thus to your end users.</p>
 

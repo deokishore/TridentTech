@@ -2,15 +2,15 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
-    <title>Digital Marketing/SEO Services Company in London UK | Trident Technologies</title>
-    <meta name="description" content="Trident Technologies SEO Services firm UK offering professional seo services, pay per click management, social media marketing, link building and seo copywriting to target higher traffic to your website."/>
-    <meta name="keywords" content="Digital Marketing Company london,SEO Services company in london uk,professional seo services London UK, seo marketing uk, seo services london uk, search engine marketing solutions in uk, search engine marketing specialists in london uk, digital marketing companies in uk, digital marketing companies in london uk."/>
+    <title>SEO,PPC,SMO,Email,Digital Marketing Company London UK</title>
+    <meta name="description" content="Trident Technologies is a Digital Marketing service provider offering best professional SEO,Adwords,Social media planning and optimization,quality inbound link creation."/>
+    <meta name="keywords" content="Trident Technologies,Digital Marketing agency,SEO,PPC,SMO,paid search,organic search,digital marketing, ppc digital marketing, seo digital services london uk, search engine marketing solutions, digital marketing company, digital marketing company in london uk."/>
 
 
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">
             <div class="carousel-inner">
-				<img src="resources/images/services/digital-marketing/digital_marketing1.jpg" alt="Digital Marketting And SEO Services Trident Technologies UK" width="100%" height="100%">
+				<img src="resources/images/services/digital-marketing/digital_marketing1.jpg" alt="Digital Marketing & SEO Services Trident Technologies" width="100%" height="100%">
 			 </div><!--/.carousel-inner-->
         </div><!--/.carousel-->
     </section><!--/#main-slider-->
@@ -18,8 +18,8 @@
     <!--/#content-->
 	<section id="blog" class="container">
     	<div class="center">
-            <h2>Digital/Online Marketing at Trident</h2>
-            <p class="lead textjustify">We formulate creative digital strategies that help you reach out to the right people with the right message at right time through a right channel. Even if you have a modest budget for your online marketing campaign, we can suggest which service your brand needs most to keep it alive & kicking. Our experts can allocate your marketing budget intelligently across various digital services depending on your business size, it's revenue goals & target niche and measure ROI. </p>
+            <h2>Trident Technologies Digital Marketing Agency London</h2>
+            <p class="lead textjustify">Trident technologies Provide best creative, cost effective digital strategies to help your business online, our expert understand your actual need, your business directory, your online business competitor, And then By Applying various digital services, We create a first page visibility of your business online.that will help you in maintaining brand value and lead generation.</p>
         </div>
         <div class="blog">
             <div class="row">
@@ -27,9 +27,9 @@
                     <div class="blog-item">
                         <div class="row">
                             <div class="col-sm-8 blog-content">
-                                <h2>SEO Service</h2>
-                                <em>Organic reach, better traffic, more revenue!!</em>
-                                <h3>Potential buyers tend to look for products or services via search & topmost results gain their focus first. To convert all those searchers to customers, we lift your business on higher search engine rankings for better CTRs & more traffic. Keeping online success in mind, our SEO team offers high quality services based on latest Google algorithmic preferences & SEO trends fused with campaign based content marketing & fully integrated online & offline ethical channels. </h3>
+                                <h1>SEO(Search engine Optimization) Service</h1>
+                                <em>Organic search, better traffic, more revenue!!</em>
+                                <h3>A online buyer looking for product, services, always prefer top most link in search engine result page, Our seo expert do provide quality services based on latest search engine algorithm. We focus on search engine trends generate new techniques, remodel your existing website structure, generate on page and off page seo strategy to create maximum inbound link. </h3>
                             </div>
                             <div class="col-xs-4 col-sm-4 blog-content">
                                 <a href="javascript:void(0);"><img class="img-responsive img-blog" src="resources/images/services/digital-marketing/tt-seo-img.jpg" width="100%" height="350" /></a>
@@ -40,8 +40,8 @@
                     	<div class="row">
                         	<div class="col-sm-8 blog-content">
                                 <h2>Analytics</h2>
-                                <em>Analyse results, measure performance & refine strategies</em>
-                                <h3>Analysing performance & measuring end-results is central to our conversion strategy but, our work doesn't just stop here. We have Google Analytics certified professionals who are adept in finding out why your online presence failed to gather ample no. of qualified leads & suggest how to improve. Having experience working for some of the world's top industries, we have developed intelligent tracking systems to find new opportunities for bringing more specific traffic, improving conversions & optimizing tactics to retain existing customers. </h3>
+                                <em>Analyse result,Acquisition,Audience Overview</em>
+                                <h3>Analysing performance & measuring Acquisition is central to our conversion strategy but, our work does not just stop here.Our certified professionals who are adept in finding out why your online presence failed to gather ample no. of leads and suggest how to improve effectively. Having working experience for some of the top industries, we have developed intelligent seo tracking systems to find new improvement for bringing more specific Audience, Audience Overview & optimizing tactics to gain new visitor and retain existing customers. </h3>
                             </div>
                             <div class="col-xs-4 col-sm-4 blog-content">
                                 <a href="javascript:void(0);"><img class="img-responsive img-blog" src="resources/images/services/digital-marketing/tt-google-analytics.jpg" width="100%" height="350" /></a>
@@ -51,9 +51,9 @@
                     <div class="blog-item">
                      	<div class="row">
                         	<div class="col-sm-8 blog-content">
-                                <h2>Paid Advertising - Search & Display</h2>
-                                <em>Uncovering paid opportunities to grow your business fast!!</em>
-                                <h3>When it comes to paid advertising, you need focused advertising campaign built on creative engagement model that can guarantee maximum response in lieu of minimum marketing dollars. Our certified experts invest time in creating successful paid advertising campaigns for both search & display media using an intelligent mix of data, research & technology clubbed with real-time targeting and conversion optimisation tactics. On top of this, we put everything in front of right audience to yield best returns on your marketing investment. </h3>
+                                <h2>Paid-(PPC) Pay Per Click Advertising</h2>
+                                <em>Cost Effective paid opportunities to grow your business fast!!</em>
+                                <h3>When it comes to Google or Bing/Yahoo paid advertising, you need attractive advertising campaign built on proper Effective model that can guarantee quality response in lieu of minimum marketing expenditure. Our ppc experts invest time in researching keywords creating successful paid campaigns for search,display,video,App media using an intelligent idea, research & technology clubbed with live targeting and conversion optimisation strategies.We put everything in front of needy audience to put best returns on your marketing investment.</h3>
                             </div>
                             <div class="col-xs-4 col-sm-4 blog-content">
                                 <a href="javascript:void(0);"><img class="img-responsive img-blog" src="resources/images/services/digital-marketing/tt-ppc.jpg" width="100%" height="350" /></a>
@@ -64,8 +64,8 @@
                      	<div class="row">
                         	<div class="col-sm-8 blog-content">
                                 <h2>Social Media Marketing</h2>
-                                <em>Because online reputation impacts purchase decisions</em>
-                                <h3>People are spending more time on social media than anywhere else. More than 95% of your existing customers & target audience hangout on Facebook and Twitter & that's our sweet spot. We target the niche that's already engaged to build a strong branding of your business. From spreading brand awareness to generating word-of-mouth referrals, managing social media profile and taking feedbacks to increasing traffic, our team runs a cutting edge social media marketing campaign creating a community of loyal customers for you. </h3>
+                                <em>its Show Your Business Brand Value</em>
+                                <h3>Now days peoples are addicted of Social Media, eg-Facebook,Twitter,Linkedin,Google Plus, They are spending much time on social media than anywhere else. More than ninety percent of your existing customers and target audience available on Facebook and Twitter. We target to provide best Audience engaged to your business. From spreading brand awareness to generating references, managing social media profile updating it daily and taking feedback to increasing website traffic or increase likes comment share for your post, our team runs a Effective social media marketing campaign creating a community of loyal Audience for you. </h3>
                             </div>
                             <div class="col-xs-4 col-sm-4 blog-content">
                                  <a href="javascript:void(0);"><img class="img-responsive img-blog" src="resources/images/services/digital-marketing/social-media-marketing.jpg" width="100%" height="350" /></a>
@@ -76,8 +76,8 @@
                      	<div class="row">
                         	<div class="col-sm-8 blog-content">
                                 <h2>Email Marketing</h2>
-                                <em>Campaigns that directly communicate & prompt to take action</em>
-                                <h3>For us, email marketing is not about sending e-mailers to a large database waiting for someone to click & convert. Instead, our email campaigns are monitored by quality content & actionable language to deliver higher success rate in converting audience. We do this by designing a focused mailer, choosing the right kind of messaging for right audience, integrating perfect call to action buttons at appropriate places & finally measure the impact for better re-marketing. </h3>
+                                <em>Campaigns for existing & New Customer</em>
+                                <h3>We take care of your connectivity to your customer, and to make connection with new Audience, we do not just send the email to bulk data, Trident first create effective emailer targeted to Audience, then segregate data accordingly, And shoot it at proper terminology .we emailer click rate is more than any other email service Provider. Our spaming ration is less and open rate is more than what we commit . </h3>
                             </div>
                             <div class="col-xs-4 col-sm-4 blog-content">
                                 <a href="javascript:void(0);"><img class="img-responsive img-blog" src="resources/images/services/digital-marketing/tt-email-marketing.jpg" width="100%" height="350" /></a>

@@ -2,7 +2,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
-<title>Trident Technologies | E commerce Website Design And Development Company in London UK.</title>
+<title>E commerce Website Design And Development Company in London UK | Trident Technologies</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Trident Technologies offer great services like  e-commerce website design , shopping cart designing services at an affordable price."/>
     <meta name="keywords" content="Ecommerce web design in london uk, ecommerce website design in uk, uk ecommerce website design, london uk ecommerce web design, ecommerce website design company uk, ecommerce website development companies in london uk, ecommerce website development company in london uk, ecommerce website design in uk, London uk Website designer."/>

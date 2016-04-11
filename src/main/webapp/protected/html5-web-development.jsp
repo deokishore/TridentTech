@@ -2,7 +2,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ page isELIgnored="false"%>
 
-    <title>Trident Technologies | HTML5 Responsive website Development Company in London UK </title>
+    <title>HTML5 Responsive website Development Company in London UK | Trident Technologies</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Build responsive HTML 5 based mobile and desktop web applications by our highly skilled developers who use modern, feature-rich and latest standards as per your requirement. " />
     <meta name="keywords" content="HTML 5 development company in uk, HTML 5 responsive website in london uk, Core HTML5 and CSS3 Web Development in uk, CSS3 Web Development in london uk, Hypertext Markup Language 5, html 5 mobile development."/>

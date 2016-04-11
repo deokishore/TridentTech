@@ -1,9 +1,8 @@
-    <title>Trident Technologies Website Design & Web Development Company London UK </title>
-    <meta name="description" itemprop="description" content=" Trident Technologies is a UK based IT Company, mainly working on wesite development, website designing, digital marketing,IT Support and solutions, application and software testing, mobile application development, e-commerce web development etc. "/>
-    <meta name="keywords" content="Trident Technologies ,IT/Software service company London uk, Trident London uk, website designing & development company uk,digital marketing company uk, online marketing company London uk, IT Services Provider in London uk."/>
+    <title>Trident Technologies Best IT Support & IT Services Provider London UK</title>
+    <meta name="description" content="description" content="Trident Technologies is a UK based IT Company,Provided IT services like website designing and development,online marketing,IT Support,software testing, IT Services in London"/>
+    <meta name="keywords" content="Trident Technologies,IT Support & IT Services,Trident,IT Software service London uk,Trident London uk, website designing and development,digital marketing company,online marketing company London, IT Services in London"/>
 	<meta name="msvalidate.01" content="5570804E04B45C5D156F30AC2F7FDDE4" />
     <meta name="google-site-verification" content="EiOYllOcFdufY-zLN2QsJ1QM4Kblj2Rnjbh1p0JTKzs" />
-    <meta name="alexaVerifyID" content="1Zyy2hiL_8o1mxoXsWAEMYReP9g"/>
     <meta name="p:domain_verify" content="4e7f8247774594add2d37d2aaf137b61"/>
 
 
@@ -18,10 +17,10 @@
             </ol>
             <div class="carousel-inner">
 
-                <div class="item active" style="background-image: url(/resources/images/slider/bg1.jpg)"></div><!--/Slide Image 1-->
-				<div class="item" style="background-image: url(/resources/images/slider/bg2.jpg)"></div><!--/Slide Image 2-->
-                <div class="item" style="background-image: url(/resources/images/slider/bg3.jpg)"></div><!--/Slide Image 3-->
-                <div class="item" style="background-image: url(/resources/images/slider/bg4.jpg)"></div><!--/Slide Image 4-->
+                <div class="item active" style="background-image: url(/resources/images/slider/bg1.jpg)" alt="digital Marketing Slider" ></div><!--/Slide Image 1-->
+				<div class="item" style="background-image: url(/resources/images/slider/bg2.jpg)" alt="Mobile Application Development" ></div><!--/Slide Image 2-->
+                <div class="item" style="background-image: url(/resources/images/slider/bg3.jpg)" alt="web Development design & Graphics" ></div><!--/Slide Image 3-->
+                <div class="item" style="background-image: url(/resources/images/slider/bg4.jpg)" alt="E-commerce web development" ></div><!--/Slide Image 4-->
 			 </div><!--/.carousel-inner-->
         </div><!--/.carousel-->
         <a class="prev hidden-xs" href="#main-slider" data-slide="prev">
@@ -34,8 +33,8 @@
     <section id="feature">
         <div class="container">
            <div class="center wow fadeInDown">
-                <h1>Trident Technologies IT Software Services</h1>
-                <p class="lead">Our digitally focused services are designed to help businesses make most out of the web & reach more customers harnessing the power of digital media. </p>
+                <h1>Trident Technologies IT Services</h1>
+                <p class="lead">Trident Technologies IT services are designed to help your businesses digitally,We provide complete Solution of your Requirement.</p>
             </div>
            <div class="row">
                 <div class="features">
