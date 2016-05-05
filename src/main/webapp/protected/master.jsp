@@ -60,13 +60,6 @@
 
 	   <tiles:insertAttribute name="body" />
 
-        <!--[if IE]>
-            <script src="<c:url value='/resources/js/bootstrap.min.ie.js' />"></script>
-        <![endif]-->
-        <!--[if !IE]><!-->
-            <script src="<c:url value='/resources/js/bootstrap.min.js' />"></script>
-        <!--<![endif]-->
-
         <tiles:insertAttribute name="footer" />
     </body>
 </html>

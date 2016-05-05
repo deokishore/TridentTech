@@ -25,7 +25,7 @@ h6 {
 
 h1{
   font-size: 36px;
-  color:#fff;
+  color:#333333;
 }
 
 h2{
@@ -409,7 +409,7 @@ input.search-form:hover {
   position: absolute;
   width: 100%;
   display: block !important;
-  height: 510px;
+  height: 600px;
   -webkit-transition: opacity ease-in-out 500ms;
   -moz-transition: opacity ease-in-out 500ms;
   -o-transition: opacity ease-in-out 500ms;
