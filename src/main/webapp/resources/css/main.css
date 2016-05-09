@@ -73,7 +73,7 @@ hr {
 
 .btn-primary:hover, 
 .btn-primary:focus{
-  background: #c52d2f;
+  background: #000000;
   outline: none;
   box-shadow: none;
 } 
@@ -2714,4 +2714,123 @@ ul.mylist li {
 .colD li.mail a {
     color: #fff;
     transition: all 0.2s ease 0s;
+}
+
+
+/** Packages **/
+#pricing {
+    background: #f2f2f2 none repeat scroll 0 0;
+    padding-bottom: 40px;
+}
+#pricing .box {
+    background-color: #ffffff;
+    border: 1px solid #b3b3b3;
+    margin-bottom: 30px;
+    padding: 15px;
+    position: relative;
+    width: 100%;
+}
+#pricing .box {
+    background-color: rgba(255, 255, 255, 0.5);
+    height: auto;
+}
+#pricing .box h3 {
+    color: #4e4e4e;
+    float: left;
+    font-family: "Roboto",sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 1.1;
+    margin-bottom: 10px;
+    margin-top: 0;
+    text-rendering: optimizelegibility;
+}
+#pricing .box h3 em {
+    color: #4e4e4e;
+    display: block;
+    font-size: 36px;
+    font-style: normal;
+}
+#pricing .box p {
+    color: #333;
+    font-size: 13px;
+    margin: 0 0 10px;
+    text-align: center;
+}
+#pricing .box p a {
+    background: transparent none repeat scroll 0 0;
+    color: #0072ba;
+    font-weight: 700;
+    text-decoration: none;
+}
+#pricing .box .price {
+    color: #4e4e4e;
+    float: right;
+    font-family: "Roboto",sans-serif;
+    font-size: 36px;
+    margin: 0 0 10px;
+    text-align: right;
+}
+#pricing .box .price small {
+    display: block;
+    font-size: 14px;
+    padding-bottom: 10px;
+    padding-top: 7px;
+    text-transform: uppercase;
+}
+#pricing .box .price sup {
+    bottom: 1ex;
+    font-size: 22px;
+    height: 0;
+    line-height: 0;
+    position: relative;
+    top: -0.5em;
+    vertical-align: baseline;
+}
+#pricing .dots {
+    list-style: outside none none;
+    margin: 0 auto 10px;
+    padding: 0;
+    width: 100%;
+}
+#pricing .dots li {
+    color: #333;
+    float: left;
+    height: 88px;
+    margin-right: 12px;
+    text-indent: -9999px;
+    width: 88px;
+}
+#pricing .features-list {
+    list-style: outside none none;
+    margin: 0 auto 10px;
+    padding: 0;
+    width: 100%;
+}
+#pricing .features-list li {
+    border-bottom: 1px solid #999;
+    color: #4e4e4e;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 8px 0;
+}
+#pricing .features-bold {
+    font-size: 16px;
+}
+#pricing .box .btn-primary-blue {
+    background: #0173c7 none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 4px;
+    color: #ffffff;
+    margin-top: 10px;
+    padding: 8px 20px;
+}
+#pricing .box .btn-primary-blue:hover, .btn-primary-blue:focus {
+    background: #000000 none repeat scroll 0 0;
+    box-shadow: none;
+    outline: medium none;
+}
+#pricing .features-sublist {
+    font-size: 12px;
+    font-weight: normal;
 }

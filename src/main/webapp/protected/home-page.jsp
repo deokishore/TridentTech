@@ -418,4 +418,113 @@
     </section><!--/#content-->
 
 
+    <section id="pricing" class="pricing-page">
+        <div class="container">
+            <div class="center wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                <h2>Subscription Plans</h2>
+                <p class="lead">Choose a single user plan that best suits your needs from the options below, or contact <a title="Email Us" href="mailto:info@tridenttechnologies.co.uk">info@tridenttechnologies.co.uk</a> to speak with our representatives about the best suitable plans according to your needs.</p>
+            </div>
+            <div class="row">
+                <div class="col-md-6 col-sm-6 wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                    <div class="box package-box">
+                        <div class="clearfix">
+                            <h3>Web Development + SEO<em>Platinum</em></h3>
+                            <p class="price">
+                                <small class="yearly">Annually</small><sup>Rs. 20,000 <span style="font-size:12px; vertical-align:middle;">+TAX</span></sup>
+                            </p>
+                        </div>
+                        <ul class="dots clearfix">
+                            <li>
+                                <a>
+                                    <img alt="On Page Optimization" src="resources/images/packages/circle-1.png" class="img-responsive">
+                                </a>
+                            </li>
+                            <li>
+                                <a>
+                                    <img alt="Indian Case Law" src="resources/images/packages/circle-2.png" class="img-responsive">
+                                </a>
+                            </li>
+                            <li>
+                                <a>
+                                    <img alt="TruePrint Available" src="resources/images/packages/circle-3.png" class="img-responsive">
+                                </a>
+                            </li>
+                        </ul>
+
+                        <ul class="features-list">
+                            <li><span class="features-bold"><b>Package Includes</b></span></li>
+                            <li>Client Requirement</li>
+                            <li>Website Audit & SEO Compatibility Check</li>
+                            <li>On Page Optimization</li>
+                            <li>Off Page Optimization</li>
+                            <li>Social Media Optimization</li>
+                            <li>Weekly/Monthly Report</li>
+                            <li>Local Map Listing</li>
+                            <li>Maintenance & Strategy Review</li>
+                        </ul>
+                        <div class="form-group center">
+                            <a class="btn btn-primary btn-lg" href="#">Purchase</a>
+                            <a class="btn btn-primary-blue btn-lg" href="#">Contact</a>
+                        </div>
+                    </div>
+                </div> <!-- Package Box 1 -->
+
+                <div class="col-md-6 col-sm-6 wow fadeInDown animated animated" style="visibility: visible; animation-name: fadeInDown;">
+                    <div class="box package-box">
+                        <div class="clearfix">
+                           <h3>Web Development + PPC<em>Platinum Plus</em></h3>
+                            <p class="price">
+                                <small class="yearly">Annually</small><sup>Rs. 30,000<span style="font-size:12px; vertical-align:middle;"> +TAX</span></sup>
+                            </p>
+                        </div>
+                        <ul class="dots clearfix">
+                            <li>
+                                <a>
+                                    <img alt="On Page Optimization" src="resources/images/packages/circle-1.png" class="img-responsive">
+                                </a>
+                            </li>
+                            <li>
+                                <a>
+                                    <img alt="Off Page Optimization" src="resources/images/packages/circle-2.png" class="img-responsive">
+                                </a>
+                            </li>
+                            <li>
+                                <a>
+                                    <img alt="Social Media Optimization" src="resources/images/packages/circle-3.png" class="img-responsive">
+                                </a>
+                            </li>
+                            <li>
+                                 <a>
+                                    <img alt="Weekly Monthly Report" src="resources/images/packages/circle-4.png" class="img-responsive">
+                                 </a>
+                            </li>
+                            <li>
+                                 <a>
+                                    <img alt="Local Map Listing" src="resources/images/packages/circle-5.png" class="img-responsive">
+                                 </a>
+                            </li>
+                        </ul>
+
+                        <ul class="features-list">
+                             <li><span class="features-bold"><b>Package Includes</b></span></li>
+                            <li>Client Requirement</li>
+                            <li>Website Audit & SEO Compatibility Check</li>
+                            <li>On Page Optimization</li>
+                            <li>Off Page Optimization</li>
+                            <li>Social Media Optimization</li>
+                            <li>Weekly/Monthly Report</li>
+                            <li>Local Map Listing</li>
+                            <li>Maintenance & Strategy Review</li>
+                        </ul>
+                        <div class="form-group center">
+                            <a class="btn btn-primary btn-lg" href="#">Purchase</a>
+                            <a class="btn btn-primary-blue btn-lg" href="#">Contact</a>
+                        </div>
+                    </div>
+                </div> <!-- Package Box 2 -->
+            </div><!--/pricing-area-->
+        </div><!--/container-->
+    </section>
+
+
 
