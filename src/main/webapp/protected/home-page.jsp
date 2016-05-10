@@ -63,6 +63,198 @@
            </a>
        </section><!--/#main-slider-->
 
+    <section id="pricing" class="packages">
+        <div class="packages-flex-item container">
+            <div class="row">
+                <div class="col-md-12 col-sm-8 center">
+                    <h1 class="txt-white">TRIDENT PRICING</h1>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-sm-8">
+                    <p class="txt-white txt-large">Customize your free quote as per your need</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div id="plans" class="overview-layout-wrapper">
+        <section class="product-container container">
+            <div class="section-number-wrapper">
+                <h2>Select an annual plan</h2>
+            </div>
+            <div class="row">
+                <div class="col-md-12 col-sm-6">
+                    <div class="product-card-flex-wrapper">
+                        <div id="product_card_essentials" class="product-card product-card-essentials ">
+                            <div class="name-panel">
+                                <p class="plan-name txt-large">Web Development</p>
+                            </div>
+                            <div class="info-panel">
+                                <div class="info-panel-interior">
+                                    <div class="title-price-row">
+                                        <p class="plan-price"><span class="amount">$199</span>/<span class="occurrence">mo</span></p>
+                                    </div>
+                                    <div class="plan-features">
+                                        <ul>
+                                        <li class="available">Client Requirement</li>
+                                        <li class="available">On Page Optimization</li>
+                                        <li class="available">Off Page Optimization</li>
+                                        <li class="unavailable">Social Media Optimization</li>
+                                        <li class="unavailable">Weekly/Monthly Report</li>
+                                        <li class="unavailable">Local Map Listing</li>
+                                        <li class="unavailable">Maintenance & Strategy Review</li>
+                                        </ul>
+                                    </div>
+                                    <div class="plan-details-row">
+                                        <div class="plan-detail-block">
+                                            <span class="caption">Contacts</span>
+                                            <span class="threshold contacts">2,500</span>
+                                        </div>
+                                        <div class="plan-detail-block">
+                                            <span class="caption">Emails/Month</span>
+                                            <span class="threshold emails">12,500</span>
+                                        </div>
+                                        <div class="plan-detail-block">
+                                                <span class="caption">Users</span>
+                                                <span class="threshold users">3</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="selection-bar">
+                                <div class="selection-circle"></div>
+                            </div>
+                        </div>
+                        <div id="product_card_essentials" class="product-card product-card-essentials ">
+                            <div class="name-panel">
+                                <p class="plan-name txt-large">Web Development & SEO</p>
+                            </div>
+                            <div class="info-panel">
+                                <div class="info-panel-interior">
+                                    <div class="title-price-row">
+                                        <p class="plan-price"><span class="amount">$199</span>/<span class="occurrence">mo</span></p>
+                                    </div>
+                                    <div class="plan-features">
+                                        <ul>
+                                        <li class="available">Client Requirement</li>
+                                        <li class="available">On Page Optimization</li>
+                                        <li class="available">Off Page Optimization</li>
+                                        <li class="available">Social Media Optimization</li>
+                                        <li class="available">Weekly/Monthly Report</li>
+                                        <li class="unavailable">Local Map Listing</li>
+                                        <li class="unavailable">Maintenance & Strategy Review</li>
+                                        </ul>
+                                    </div>
+                                    <div class="plan-details-row">
+                                        <div class="plan-detail-block">
+                                            <span class="caption">Contacts</span>
+                                            <span class="threshold contacts">2,500</span>
+                                        </div>
+                                        <div class="plan-detail-block">
+                                            <span class="caption">Emails/Month</span>
+                                            <span class="threshold emails">12,500</span>
+                                        </div>
+                                        <div class="plan-detail-block">
+                                                <span class="caption">Users</span>
+                                                <span class="threshold users">3</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="selection-bar">
+                                <div class="selection-circle"></div>
+                            </div>
+                        </div>
+                        <div id="product_card_essentials" class="product-card product-card-essentials selected">
+                            <div class="name-panel">
+                                <p class="plan-name txt-large">Complete</p>
+                            </div>
+                            <div class="info-panel">
+                                <div class="info-panel-interior">
+                                    <div class="title-price-row">
+                                        <p class="plan-price"><span class="amount">$199</span>/<span class="occurrence">mo</span></p>
+                                    </div>
+                                    <div class="plan-features">
+                                        <ul>
+                                        <li class="available">Client Requirement</li>
+                                       <li class="available">On Page Optimization</li>
+                                       <li class="available">Off Page Optimization</li>
+                                       <li class="available">Social Media Optimization</li>
+                                       <li class="available">Weekly/Monthly Report</li>
+                                       <li class="available">Local Map Listing</li>
+                                       <li class="available">Maintenance & Strategy Review</li>
+                                        </ul>
+                                    </div>
+                                    <div class="plan-details-row">
+                                        <div class="plan-detail-block">
+                                            <span class="caption">Contacts</span>
+                                            <span class="threshold contacts">2,500</span>
+                                        </div>
+                                        <div class="plan-detail-block">
+                                            <span class="caption">Emails/Month</span>
+                                            <span class="threshold emails">12,500</span>
+                                        </div>
+                                        <div class="plan-detail-block">
+                                                <span class="caption">Users</span>
+                                                <span class="threshold users">3</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="selection-bar">
+                                <div class="selection-circle"></div>
+                            </div>
+                        </div>
+                        <div id="product_card_essentials" class="product-card product-card-essentials ">
+                            <div class="name-panel">
+                                <p class="plan-name txt-large">SEO & PPC</p>
+                            </div>
+                            <div class="info-panel">
+                                <div class="info-panel-interior">
+                                    <div class="title-price-row">
+                                        <p class="plan-price"><span class="amount">$199</span>/<span class="occurrence">mo</span></p>
+                                    </div>
+                                    <div class="plan-features">
+                                        <ul>
+                                        <li class="available">Client Requirement</li>
+                                       <li class="available">On Page Optimization</li>
+                                       <li class="available">Off Page Optimization</li>
+                                       <li class="available">Social Media Optimization</li>
+                                       <li class="available">Weekly/Monthly Report</li>
+                                       <li class="available">Local Map Listing</li>
+                                       <li class="available">Maintenance & Strategy Review</li>
+                                        </ul>
+                                    </div>
+                                    <div class="plan-details-row">
+                                        <div class="plan-detail-block">
+                                            <span class="caption">Contacts</span>
+                                            <span class="threshold contacts">2,500</span>
+                                        </div>
+                                        <div class="plan-detail-block">
+                                            <span class="caption">Emails/Month</span>
+                                            <span class="threshold emails">12,500</span>
+                                        </div>
+                                        <div class="plan-detail-block">
+                                                <span class="caption">Users</span>
+                                                <span class="threshold users">3</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="selection-bar">
+                                <div class="selection-circle"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="text-center gap-top-15 gap-bottom-5">All plans with annual contract, billed monthly.</p>
+            <p class="text-center">Need more options? Add-ons are available. Call <a href="tel:1234567890">+1&nbsp;234&nbsp;567&nbsp;890</a> for details.</p>
+            <div class="form-group center">
+                <a href="#" class="btn btn-primary btn-lg">Get Free Quote</a>
+            </div>
+        </section>
+    </div>
     <section id="feature">
         <div class="container">
            <div class="center wow fadeInDown">
@@ -416,115 +608,6 @@
             </div><!--/.row-->
         </div><!--/.container-->
     </section><!--/#content-->
-
-
-    <section id="pricing" class="pricing-page">
-        <div class="container">
-            <div class="center wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
-                <h2>Subscription Plans</h2>
-                <p class="lead">Choose a single user plan that best suits your needs from the options below, or contact <a title="Email Us" href="mailto:info@tridenttechnologies.co.uk">info@tridenttechnologies.co.uk</a> to speak with our representatives about the best suitable plans according to your needs.</p>
-            </div>
-            <div class="row">
-                <div class="col-md-6 col-sm-6 wow fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
-                    <div class="box package-box">
-                        <div class="clearfix">
-                            <h3>Web Development + SEO<em>Platinum</em></h3>
-                            <p class="price">
-                                <small class="yearly">Annually</small><sup>Rs. 20,000 <span style="font-size:12px; vertical-align:middle;">+TAX</span></sup>
-                            </p>
-                        </div>
-                        <ul class="dots clearfix">
-                            <li>
-                                <a>
-                                    <img alt="On Page Optimization" src="resources/images/packages/circle-1.png" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a>
-                                    <img alt="Indian Case Law" src="resources/images/packages/circle-2.png" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a>
-                                    <img alt="TruePrint Available" src="resources/images/packages/circle-3.png" class="img-responsive">
-                                </a>
-                            </li>
-                        </ul>
-
-                        <ul class="features-list">
-                            <li><span class="features-bold"><b>Package Includes</b></span></li>
-                            <li>Client Requirement</li>
-                            <li>Website Audit & SEO Compatibility Check</li>
-                            <li>On Page Optimization</li>
-                            <li>Off Page Optimization</li>
-                            <li>Social Media Optimization</li>
-                            <li>Weekly/Monthly Report</li>
-                            <li>Local Map Listing</li>
-                            <li>Maintenance & Strategy Review</li>
-                        </ul>
-                        <div class="form-group center">
-                            <a class="btn btn-primary btn-lg" href="#">Purchase</a>
-                            <a class="btn btn-primary-blue btn-lg" href="#">Contact</a>
-                        </div>
-                    </div>
-                </div> <!-- Package Box 1 -->
-
-                <div class="col-md-6 col-sm-6 wow fadeInDown animated animated" style="visibility: visible; animation-name: fadeInDown;">
-                    <div class="box package-box">
-                        <div class="clearfix">
-                           <h3>Web Development + PPC<em>Platinum Plus</em></h3>
-                            <p class="price">
-                                <small class="yearly">Annually</small><sup>Rs. 30,000<span style="font-size:12px; vertical-align:middle;"> +TAX</span></sup>
-                            </p>
-                        </div>
-                        <ul class="dots clearfix">
-                            <li>
-                                <a>
-                                    <img alt="On Page Optimization" src="resources/images/packages/circle-1.png" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a>
-                                    <img alt="Off Page Optimization" src="resources/images/packages/circle-2.png" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                <a>
-                                    <img alt="Social Media Optimization" src="resources/images/packages/circle-3.png" class="img-responsive">
-                                </a>
-                            </li>
-                            <li>
-                                 <a>
-                                    <img alt="Weekly Monthly Report" src="resources/images/packages/circle-4.png" class="img-responsive">
-                                 </a>
-                            </li>
-                            <li>
-                                 <a>
-                                    <img alt="Local Map Listing" src="resources/images/packages/circle-5.png" class="img-responsive">
-                                 </a>
-                            </li>
-                        </ul>
-
-                        <ul class="features-list">
-                             <li><span class="features-bold"><b>Package Includes</b></span></li>
-                            <li>Client Requirement</li>
-                            <li>Website Audit & SEO Compatibility Check</li>
-                            <li>On Page Optimization</li>
-                            <li>Off Page Optimization</li>
-                            <li>Social Media Optimization</li>
-                            <li>Weekly/Monthly Report</li>
-                            <li>Local Map Listing</li>
-                            <li>Maintenance & Strategy Review</li>
-                        </ul>
-                        <div class="form-group center">
-                            <a class="btn btn-primary btn-lg" href="#">Purchase</a>
-                            <a class="btn btn-primary-blue btn-lg" href="#">Contact</a>
-                        </div>
-                    </div>
-                </div> <!-- Package Box 2 -->
-            </div><!--/pricing-area-->
-        </div><!--/container-->
-    </section>
 
 
 
