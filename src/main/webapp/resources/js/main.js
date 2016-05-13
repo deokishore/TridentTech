@@ -54,7 +54,20 @@ jQuery(function($) {'use strict',
 		});
 	});
 
-	
+
+	 /*scroll with animation to any tags with [data-scroll-to] attribute*/
+
+        $(document).on('click', 'a', function () {
+            var scrollTo_id = $.attr(this, 'data-scroll-to');
+            $('html, body').animate({
+                scrollTop: $(scrollTo_id).offset().top - 135
+            }, 500, function () {
+                window.location.hash = scrollTo_id;
+            });
+            return false;
+        });
+
+
 	//goto top
 	$('.gototop').click(function(event) {
 		event.preventDefault();

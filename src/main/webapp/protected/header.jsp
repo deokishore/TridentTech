@@ -16,7 +16,7 @@
                             </ul>
                             <div class="search">
                                 <form role="form">
-                                    <input type="text" class="search-form" autocomplete="off" placeholder="Search">
+                                    <input type="search" class="search-form" autocomplete="off" placeholder="Search">
                                     <i class="fa fa-search"></i>
                                 </form>
                            </div>
@@ -75,7 +75,8 @@
                         </li>
                         <li><a href="/contactUs">Contact</a></li> 
                         <li><a href="/enquiry">Enquiry</a></li>  
-                        <li><a href="/career">Careers</a></li> 
+                        <li><a href="/career">Careers</a></li>
+                        <li><a href="/login">login</a></li>
                     </ul>
                 </div>
             </div><!--/.container-->

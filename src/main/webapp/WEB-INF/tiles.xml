@@ -120,4 +120,24 @@
         <put-attribute name="body" value="/protected/thank-you.jsp"/>
     </definition>
 
+    <definition name="login" extends="master.page">
+        <put-attribute name="body" value="/protected/login.jsp"/>
+    </definition>
+
+    <definition name="checkoutStepOne" extends="master.page">
+        <put-attribute name="body" value="/protected/checkout-step-1.jsp"/>
+    </definition>
+
+    <definition name="checkoutStepTwo" extends="master.page">
+        <put-attribute name="body" value="/protected/checkout-step-2.jsp"/>
+    </definition>
+
+    <definition name="checkoutStepThree" extends="master.page">
+        <put-attribute name="body" value="/protected/checkout-step-3.jsp"/>
+    </definition>
+
+    <definition name="checkoutStepFour" extends="master.page">
+        <put-attribute name="body" value="/protected/checkout-step-4.jsp"/>
+    </definition>
+
 </tiles-definitions>

@@ -251,7 +251,8 @@
             <p class="text-center gap-top-15 gap-bottom-5">All plans with annual contract, billed monthly.</p>
             <p class="text-center">Need more options? Add-ons are available. Call <a href="tel:1234567890">+1&nbsp;234&nbsp;567&nbsp;890</a> for details.</p>
             <div class="form-group center">
-                <a href="#" class="btn btn-primary btn-lg">Get Free Quote</a>
+                <a href="#contact-page"  data-scroll-to="#contact-page" class="btn btn-primary btn-lg nav-link">Get Free Quote</a>
+                <a href="#" class="btn btn-primary btn-lg nav-link">Subscribe</a>
             </div>
         </section>
     </div>
@@ -608,6 +609,62 @@
             </div><!--/.row-->
         </div><!--/.container-->
     </section><!--/#content-->
+
+    <section id="contact-page">
+        <div class="container">
+            <div class="center">
+                <h2>Contact Me</h2>
+                <p class="lead">If you would like us to contact you regarding any information you require about this product. Please fill in your contact details in the form below. </p>
+            </div>
+
+            <div style="display: none" id="labelSuccess"></div>
+            <p style="display: none;" id="para_spin"><i class="fa fa-spinner fa-spin"></i> Email is sending...</p>
+            <div class="row contact-wrap">
+                <div data-wow-delay="600ms" data-wow-duration="1000ms" class="col-md-8 col-sm-6 wow fadeInDown">
+                    <form id="main-contact-form" class="contact-form" name="contact-form" method="post">
+                        <span class="pre-input"><i class="fa fa-user"></i></span>
+                        <input type="text" required="" placeholder="Name" name="name" id="name" class="name plain buffer">
+                        <span class="pre-input"><i class="fa fa-envelope"></i></span>
+                        <input type="email" required="" placeholder="Email" name="email" id="email" class="email plain buffer">
+                        <span class="pre-input"><i class="fa fa-phone"></i></span>
+                        <input type="text" required="" placeholder="Phone Number" name="phone" id="phone" class="name plain buffer">
+                        <span class="pre-input"><i class="fa fa-building-o"></i></span>
+                        <input type="text" placeholder="Organization" name="company" id="company" class="name plain buffer">
+                        <span class="pre-input"><i class="fa fa-align-justify"></i></span>
+                        <select class="orgtype plain buffer" id="companytype" name="companytype">
+                            <option disabled="disabled" selected="" value="">Service Interested In</option>
+                            <option value="seo">Search Engine Optimisation (SEO)</option>
+                            <option value="ppc">Pay Per Click (PPC)</option>
+                            <option value="marketing">Affiliate Marketing</option>
+                            <option value="webdesigning">Web Designing</option>
+                            <option value="webdevelopment">Web Development</option>
+                            <option value="socialmedia">Social Media Optimisation</option>
+                        </select>
+
+                        <textarea id="comments" placeholder="Comments (Optional)" name="message" class="plain buffer"></textarea>
+                        <div class="form-group">
+                            <button id="btnSubmit" type="submit" name="submit" class="btn btn-primary btn-lg" required="required">Submit</button>
+                            <button type="reset" name="reset" class="btn btn-primary btn-lg" required="required">Reset</button>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-md-4 col-sm-6 wow fadeInDown">
+                    <div class="widget" style="margin-bottom:30px;">
+                        <h4>Call Us</h4>
+                        <p>
+                            Phone Number: +44 7561 420 709
+                        </p>
+                    </div>
+                    <div class="widget">
+                        <h4>Write to Us</h4>
+                        <p>
+                            Email: <a href="mailto:sales@scconline.com">sales@scconline.com</a><br>
+                        </p>
+                    </div>
+                </div>
+            </div><!--/.row-->
+        </div><!--/.container-->
+    </section>
 
 
 

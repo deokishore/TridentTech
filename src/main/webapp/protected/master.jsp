@@ -31,10 +31,12 @@
     
     <script src="<c:url value="/resources/js/jquery.js" />"></script>
 	<script src="<c:url value="/resources/js/bootstrap.min.js" />"></script>
+	<script src="<c:url value="/resources/js/plugins.js" />"></script>
 	<script src="<c:url value="/resources/js/jquery.prettyPhoto.js" />"></script>
 	<script src="<c:url value="/resources/js/jquery.isotope.min.js" />"></script>
 	<script src="<c:url value="/resources/js/main.js" />"></script>
-	<script src="<c:url value="/resources/js/wow.min.js" />"></script>	
+	<script src="<c:url value="/resources/js/wow.min.js" />"></script>
+	<script src="<c:url value="/resources/js/functions.js" />"></script>
 
 	<!--Google Analytics Code Start-->
 
