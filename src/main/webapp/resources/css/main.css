@@ -1926,7 +1926,7 @@ ul.social_icons li  a i{
 }
 
 #contact-page{
-  background:#f2f2f2;
+  background:#fafafa;
 }
 
 #contact-page .contact-form 
@@ -3383,7 +3383,7 @@ body:not(.device-touch) .i-rounded, body:not(.device-touch) .i-plain, body:not(.
     padding: 12px 15px !important;
 }
 .cart tr {
-   height:75px;
+   height:65px;
 }
 .cart td {
     border-color: #e5e5e5 !important;
@@ -3479,4 +3479,100 @@ body:not(.device-touch) .i-rounded, body:not(.device-touch) .i-plain, body:not(.
 }
 .sm-form-control {
     height: auto;
+}
+.notopborder {
+    border-top: medium none !important;
+}
+
+.net-bank-wr > .net-bank-hd-wr {
+    border-bottom: 1px dashed #e6e6e6;
+    padding: 10px;
+}
+.net-bank-wr > .net-bank-form-wr {
+    padding: 10px;
+}
+.pop-bank-logo-wr > .pop-bank-wr {
+    padding: 10px;
+}
+.net-bank-form {
+    margin: 0 auto;
+    padding:0;
+    width: auto;
+}
+
+.pop-bank-wr .net-bnk-logo {
+    background-color: #f9f9f9;
+    border: 2px solid #e6e6e6;
+    cursor: pointer;
+    float: left;
+    height: 60px;
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    width: 142px;
+}
+.net-bnk-logo .rd-skin {
+    background: transparent url("../images/radio_skin.png") no-repeat scroll 0 0;
+    display: inline-block;
+    height: 20px;
+    position: relative;
+    top: 12px;
+    width: 20px;
+}
+.net-bnk-logo .bank-name-wr {
+    background: transparent url("../images/net_bank_logos.png") no-repeat scroll 0 0;
+    border: 2px solid transparent;
+    height: 28px;
+    left: 18px;
+    margin: 10px 1%;
+    position: relative;
+    top: -26px;
+    width: 124px;
+}
+
+.bank-name-wr.HDFC {
+    background-position: 0 -65px;
+}
+.bank-name-wr.ICICI {
+    background-position: -1px -99px;
+}
+.bank-name-wr.CITIBANK {
+    background-position: 0 -34px;
+}
+.bank-name-wr.SBI {
+    background-position: -1px 0;
+}
+.bank-name-wr.AXIS {
+    background-position: 0 -129px;
+}
+.bank-name-wr.KOTAK {
+    background-position: -2px -160px;
+}
+.all-net-banks-wr .select-net-bank-wr {
+    padding: 10px 0;
+}
+.net-bank-cont-btn-wr > .net-bank-sub-btn.disabled {
+    background-color: grey;
+}
+.pop-bank-wr .net-bnk-logo:hover {
+    border: 2px solid #16b595;
+}
+.pop-bank-wr .net-bnk-logo:hover .rd-skin {
+    background-position: 0 -20px;
+}
+.select-net-bank-wr .all-banks-txt {
+    display: inline-block;
+    margin-right: 10px;
+}
+.net-bank-cont-btn-wr .net-bank-sub-btn {
+    border-radius: 0;
+}
+.net-bnk-logo.selected-bank {
+    border: 2px solid #16b595;
+}
+.net-bnk-logo.selected-bank .rd-skin {
+    background-position: 0 -20px;
+}
+.net-down-msg-wr {
+    margin: 10px 0;
 }

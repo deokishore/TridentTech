@@ -36,7 +36,8 @@
                             </li>
                         </ul>
                         <div class="alert alert-success">
-                            <strong>Thank You.</strong> Your order will be processed once we verify the Payment.
+                            <strong>Thank You.</strong> Your order will be processed once we verify the Payment. <br/><br/>
+                            You shortly receive the order confirmation on your registered email after payment is processed
                         </div>
                     </div>
                     <div class="clear"></div>

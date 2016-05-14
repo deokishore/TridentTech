@@ -252,7 +252,7 @@
             <p class="text-center">Need more options? Add-ons are available. Call <a href="tel:1234567890">+1&nbsp;234&nbsp;567&nbsp;890</a> for details.</p>
             <div class="form-group center">
                 <a href="#contact-page"  data-scroll-to="#contact-page" class="btn btn-primary btn-lg nav-link">Get Free Quote</a>
-                <a href="#" class="btn btn-primary btn-lg nav-link">Subscribe</a>
+                <a href="/login" class="btn btn-primary btn-lg nav-link">Buy Now</a>
             </div>
         </section>
     </div>
